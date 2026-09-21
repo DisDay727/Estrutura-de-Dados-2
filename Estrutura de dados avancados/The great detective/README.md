@@ -5,4 +5,4 @@ Dentro desse jogo você o jogado irá sé um detetive que devera desvenda os mis
 # Regra de jogo
 - O jogo rodara inteiramente em python com o uso da bibliotecas random e tkinter.
 - O jogo terá perguntas e respostas programadas em "nós", oque fará que a experiência seja única para cada individuo.
-- Dentro do jogo cada terá bônus de dicas e mapa para guia o jogador assim o detetive em uma jornada.
+- Dentro do jogo terá bônus de dicas e mapa para guia o jogador assim o detetive em uma jornada.
